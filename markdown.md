@@ -46,7 +46,7 @@ Harvard, Minerva, and the tech school '42' are some examples of successful initi
 
 CLASSICAL SCHOOL SYSTEMS | PBL TUTORIAL PROCESS
 ------------ | -------------
-![Image1](/images/classical_school.png) | ![Image2](/images/pbl_process_titleless.png)
+![Image1](/img/we_work1.jpg) | ![Image2](/img/we_work3.jpg)
 
 *Figure 1. Traditional learning management systems do not adequately support the PBL approach.*
 <br><br>
