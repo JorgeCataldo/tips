@@ -42,7 +42,7 @@ Problem-based learning (PBL) is a learning strategy successfully adopted by some
 <table style="width:100%">
   <tr>
     <th><img src="img/logo1_fundo_branco.png"></th>
-    <th><img src="img/logo1_fundo_branco.png">/th> 
+    <th><img src="img/logo1_fundo_branco.png"></th> 
   </tr>
 </table>
 
