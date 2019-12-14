@@ -39,7 +39,12 @@ Problem-based learning (PBL) is a learning strategy successfully adopted by some
 <a name="presentation"></a> 
 
 
-
+<table style="width:100%">
+  <tr>
+    <th><img src="img/logo1_fundo_branco.png"></th>
+    <th><img src="img/logo1_fundo_branco.png">/th> 
+  </tr>
+</table>
 
 
 Harvard, Minerva, and the tech school '42' are some examples of successful initiatives of using PBL to develop **professional higher skills**. The strength of adopting the PBL strategy in vocational education lies in the **pragmatism** of their learning experiences, which helps **accelerate students' employability gains** in the labor market. <br><br>
